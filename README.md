@@ -18,10 +18,10 @@ It covers all major modules from user registration to admin panel testing.
 | Folder | Document | Status |
 |--------|----------|--------|
 | `Test-Plan/` | Test_Plan.xlsx |  Done |
-| `Test-Scenarios/` | Test_Scenarios.xlsx |  In Progress |
-| `Test-Cases/` | Test_Cases.xlsx |  In Progress |
-| `Bug-Report/` | Bug_Report.xlsx | Pending |
-| `RTM/` | RTM.xlsx |  Pending |
+| `Test-Scenarios/` | Test_Scenarios.xlsx |  Done |
+| `Test-Cases/` | Test_Cases.xlsx |  Done |
+| `Bug-Report/` | Bug_Report.xlsx | Done |
+| `RTM` | RTM.xlsx |  Pending |
 
 ---
 
