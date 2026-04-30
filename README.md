@@ -21,7 +21,7 @@ It covers all major modules from user registration to admin panel testing.
 | `Test-Scenarios/` | Test_Scenarios.xlsx |  Done |
 | `Test-Cases/` | Test_Cases.xlsx |  Done |
 | `Bug-Report/` | Bug_Report.xlsx | Done |
-| `RTM` | RTM.xlsx |  Pending |
+| `RTM` | RTM.xlsx |  Done |
 
 ---
 
